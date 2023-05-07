@@ -1,3 +1,7 @@
+# Deprecated
+
+I'm not maintaining this anymore, find/build something similar.
+
 # jenkins-with-docker
 
 Dockerfile from jenkins official image with docker and docker-compose added.
